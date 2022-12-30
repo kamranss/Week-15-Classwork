@@ -60,13 +60,13 @@ namespace Service.Service
         {
             try
             {
-                List<Group> groups = groupRepository.GetAll(g => g.GroupName == name);
+                List<Group> groups = groupRepository.GetAll(g => g.GroupName.ToLower() == name.ToLower());
                 return groups;
             }
             catch (Exception)
             {
 
-                throw;
+                return null;
             }
         }
 

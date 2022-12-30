@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interfaces
+namespace Week15Classwork.Controller
 {
-    public interface IEntity
+    internal class GroupServiceController
     {
-        public int Id { get; set; }
     }
 }

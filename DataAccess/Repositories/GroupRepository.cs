@@ -84,6 +84,12 @@ namespace DataAccess.Repositories
             try
             {
                 Group tempGroup = Get(tempgroup => tempgroup.Id == entity.Id);
+                if (tempGroup != null)
+                {
+                    tempGroup = entity;
+                    return true;
+                }
+                return false;
             }
             catch (Exception)
             {

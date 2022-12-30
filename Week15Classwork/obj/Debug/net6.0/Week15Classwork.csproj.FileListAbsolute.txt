@@ -1,0 +1,15 @@
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\bin\Debug\net6.0\Week15Classwork.exe
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\bin\Debug\net6.0\Week15Classwork.deps.json
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\bin\Debug\net6.0\Week15Classwork.runtimeconfig.json
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\bin\Debug\net6.0\Week15Classwork.dll
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\bin\Debug\net6.0\Week15Classwork.pdb
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.dll
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\refint\Week15Classwork.dll
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.pdb
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\Week15Classwork.genruntimeconfig.cache
+C:\Users\kamra\source\repos\Week15Classwork\Week15Classwork\obj\Debug\net6.0\ref\Week15Classwork.dll
